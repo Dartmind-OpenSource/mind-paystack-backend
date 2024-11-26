@@ -8,8 +8,13 @@ environment:
 
 dependencies:
   dart_frog: ^1.1.0
+  envied: ^1.0.0
+  http: ^1.2.2
+  json_annotation: ^4.9.0
 
 dev_dependencies:
+  build_runner: ^2.4.6
+  envied_generator: 
   mocktail: ^1.0.3
   test: ^1.25.5
   very_good_analysis: ^5.1.0

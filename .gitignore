@@ -13,4 +13,7 @@ build/
 .dart_frog
 
 # Test related files
-coverage/
+coverage/.env
+lib/env.dart
+lib/env.g.dart
+.env
